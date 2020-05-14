@@ -16,7 +16,7 @@ class RestaurantListApplicationTests {
 	@Test
 	void retrieveRestaurants() {
 	  // TODO: The actual count is 10, change this value to pass the unit test
-	  assertEquals( restaurantRepository.count(), 9 );
+	  assertEquals( restaurantRepository.count(), 10 );
 	}
 
 
